@@ -2,9 +2,7 @@ package decorator.inputStreamExample;
 
 import java.io.*;
 
-/**
- * Created by sergei on 9/7/16.
- */
+
 public class InputTest {
     public static void main(String[] args) throws FileNotFoundException {
         int c;
