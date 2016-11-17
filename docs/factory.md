@@ -31,6 +31,6 @@
 
 #### Примеры использованием паттернов:
 1. [Пример Фабричного Метода](../src/factory/factoryMethod/PizzaTestDrive.java)
-2. [Пример Абстрактного файбрики](../src/factory/abstractFactory/PizzaTestDrive.java)
+2. [Пример Абстрактной фабрики](../src/factory/abstractFactory/PizzaTestDrive.java)
 
 [Обратно к README](../README.md)

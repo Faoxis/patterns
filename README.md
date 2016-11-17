@@ -7,6 +7,7 @@
 2. [Паттерн Наблюдатель.](docs/observer.md)
 3. [Паттерн Декоратор.](docs/decorator.md)
 4. [Фабричный Метод и Абстрактная Фабрика](docs/factory.md)
+5. [Одиночка](docs/singleton.md)
 
 
 
